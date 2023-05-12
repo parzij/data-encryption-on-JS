@@ -1,3 +1,4 @@
+```c++
 let key = prompt("Введите ключ: ");
 
 let message = prompt("Введите сообщение для шифрования: ");
@@ -16,3 +17,4 @@ encryptedMessage += encryptedChar;
 }
 
 alert("Зашифрованное сообщение: " + encryptedMessage);
+```
